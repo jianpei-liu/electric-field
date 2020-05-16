@@ -21,7 +21,7 @@
 
 4. 非等量异种电荷电场分布图
 
-<img src="https://github.com/moyuwangzi/electric-field/blob/master/images/-1%E3%80%81-1%E3%80%81-1%E3%80%813" alt="-1、-1、-1、3" style="zoom:80%;" />
+   <img src="https://github.com/moyuwangzi/electric-field/blob/master/images/-1%E3%80%81-1%E3%80%81-1%E3%80%813.jpg" alt="-1、-1、-1、3" style="zoom:80%;" />
 
 ## 总结
 
