@@ -9,19 +9,19 @@
 
 1. 最简单的情况异种电荷的电场线分布
 
-<img src="https://github.com/moyuwangzi/electric-field/blob/master/images/-1%E3%80%811.jpg" alt="-1、1" title="异种对称电荷电场线分布" style="zoom:80%;" />
+<img src="./images/-1%E3%80%811.jpg" alt="-1、1" title="异种对称电荷电场线分布" style="zoom:80%;" />
 
-2. <img src="https://github.com/moyuwangzi/electric-field/blob/master/images/-5%E3%80%811.jpg" alt="-5、1" title="5，-1" style="zoom:50%;" /> <img src="https://github.com/moyuwangzi/electric-field/blob/master/images/-1%E3%80%815.jpg" alt="my-logo.png" title="-1，5" style="zoom:50%;" />
+2. <img src="./images/-5%E3%80%811.jpg" alt="-5、1" title="5，-1" style="zoom:50%;" /> <img src="./images/-1%E3%80%815.jpg" alt="my-logo.png" title="-1，5" style="zoom:50%;" />
 
 3. 四等量异种电荷电场分布图
 
-   <img src="https://github.com/moyuwangzi/electric-field/blob/master/images/-1%E3%80%811%E3%80%811%E3%80%81-1.jpg" alt="-1、1、1、-1" style="zoom:50%;" />
+   <img src="./images/-1%E3%80%811%E3%80%811%E3%80%81-1.jpg" alt="-1、1、1、-1" style="zoom:50%;" />
 
-   <img src="https://github.com/moyuwangzi/electric-field/blob/master/images/-1%E3%80%811%E3%80%81-1%E3%80%811.jpg" alt="-1、1、-1、1" style="zoom:50%;" />
+   <img src="./images/-1%E3%80%811%E3%80%81-1%E3%80%811.jpg" alt="-1、1、-1、1" style="zoom:50%;" />
 
 4. 非等量异种电荷电场分布图
 
-   <img src="https://github.com/moyuwangzi/electric-field/blob/master/images/-1%E3%80%81-1%E3%80%81-1%E3%80%813.jpg" alt="-1、-1、-1、3" style="zoom:80%;" />
+   <img src="./images/-1%E3%80%81-1%E3%80%81-1%E3%80%813.jpg" alt="-1、-1、-1、3" style="zoom:80%;" />
 
 ## 总结
 
