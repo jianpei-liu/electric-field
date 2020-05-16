@@ -5,7 +5,7 @@ from models.tools import *
 
 if __name__ == '__main__':
     plt.figure(figsize=(5, 5))
-    charges = [charge(-1, [-1, 0]), charge(1, [1, 0]), charge(1, [0, 1]), charge(-1, [0, -1])]
+    charges = [charge(-1, [-1, 0]), charge(-1, [1, 0]), charge(-1, [0, 1]),charge(3, [0, -1])]
     charges = sorted(charges, key=lambda e: e.q, reverse=True)
     size = [-2, -2, 2, 2]
     plt.xlabel('x')
@@ -29,5 +29,7 @@ if __name__ == '__main__':
                     hit_list.append(point)
 
     plot_charges(charges)
+    plt.title('electric-field')
+    plt.savefig(r'D:/py/electric-field/-1、-1、-1、3.jpg')
     plt.show()
-    plt.title('fuck')
+
